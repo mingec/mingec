@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mingec
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning SE in Xidian University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning software engineering in Xidian University.
+- 📫 How to reach me : my wechat 19829701762
 
 <!---
 mingec/mingec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
